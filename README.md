@@ -1,6 +1,3 @@
-# Tour-Places-RP
-
-https://tour-places-rp.netlify.app
 
 <h1 align="center">Tour Places</h1>
 
